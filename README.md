@@ -19,8 +19,8 @@ I'm a **Computer Science & Engineering student** 📚 with a specialization in *
 - **Languages**:  
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
   - ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+  - ![C](https://img.shields.io/badge/-C-003B57?style=flat&logo=postgresql&logoColor=white)
 
 - **Data Science & ML Tools**:  
   - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -68,7 +68,7 @@ Built an **AI Chatbot** using **Natural Language Processing (NLP)** that assists
 
 ### 📈 **GitHub Stats**:
 
-![Sabit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabit-al-alfi&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
+![Sabit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eganstark&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
 
 ---
 

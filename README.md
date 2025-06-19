@@ -8,7 +8,7 @@ I'm a **Computer Science & Engineering student** 📚 with a specialization in *
 
 ### 🔍 **About Me**:
 - 🎓 **Currently studying** Computer Science & Engineering (CSE), majoring in **Data Science**.
-- 🌱 **Passionate about** Data Science, **ML**, **AI**, and **NLP** (Natural Language Processing).
+- 🌱 **Passionate about** Data Science, **ML**, **AI**.
 - 👨‍💻 **Open to collaboration** on exciting Data Science and AI projects!
 - 🎯 **Goal**: To make meaningful impact through **Data** and **Technology**.
 

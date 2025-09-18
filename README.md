@@ -74,7 +74,7 @@ Built an **AI Chatbot** using **Natural Language Processing (NLP)** that assists
 ### 🤝 **Connect With Me**:
 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/sabitalfi)**  
-- 📧 **Email**: sabitalie@gmail.come
+- 📧 **Email**: sabitalfie@gmail.com
 - 🌐 **Personal Website**:(Coming soon)
 
 ---
@@ -97,4 +97,4 @@ Feel free to explore my repositories, connect, and let's build something amazing
 Let's keep in touch! 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabit-al-alfi) 
-[![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=flat&logo=gmail&logoColor=white)](mailto:sabitalalfi@example.com)
+[![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=flat&logo=gmail&logoColor=white)](mailto:sabitalfie@gmail.com)

@@ -18,7 +18,6 @@ I'm a **Computer Science & Engineering student** 📚 with a specialization in *
 
 - **Languages**:  
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   - ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
   - ![C](https://img.shields.io/badge/-C-003B57?style=flat&logo=postgresql&logoColor=white)
 
@@ -74,30 +73,17 @@ Built an **AI Chatbot** using **Natural Language Processing (NLP)** that assists
 
 ### 🤝 **Connect With Me**:
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/sabit-al-alfi)**  
-- 🐦 **[Twitter](https://twitter.com/SabitAlAlfi)**  
-- 📧 **Email**: sabitalalfi@example.com  
-- 🌐 **Personal Website**: [sabit-al-alfi.com](https://sabit-al-alfi.com) (Coming soon)
+- 💼 **[LinkedIn](https://www.linkedin.com/in/sabitalfi)**  
+- 📧 **Email**: sabitalie@gmail.come
+- 🌐 **Personal Website**:(Coming soon)
 
 ---
-
-### 🌟 **Fun Facts About Me**:
-
-- 🎮 When I'm not coding, I enjoy playing **strategy games** like **Chess** and **Civilization**.
-- 💡 I have a love for **solving puzzles** and **brain teasers**. It helps me think outside the box!
-- 🌍 Always excited to travel and learn from different cultures.
 
 ---
 
 ### 🔮 **Looking Ahead**:
 - ✨ **Learning** advanced techniques in **Deep Learning**, **Reinforcement Learning**, and **Computer Vision**.
 - 🚀 Exploring cutting-edge AI research and applications.
-
----
-
-### 📝 **Blog (Coming Soon)**:
-
-Stay tuned! I’ll be posting articles on Data Science, AI, and my learning journey. 📝
 
 ---
 
@@ -111,5 +97,4 @@ Feel free to explore my repositories, connect, and let's build something amazing
 Let's keep in touch! 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabit-al-alfi) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SabitAlAlfi) 
 [![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=flat&logo=gmail&logoColor=white)](mailto:sabitalalfi@example.com)

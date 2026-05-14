@@ -1,91 +1,50 @@
-# Hi there, I'm Sabit Al Alfi 👋
+# 👋 Hi, I'm Sabit Al Alfi
 
-### Data Science Graduate • ML Developer • AI Explorer
-
-I'm a Computer Science & Engineering graduate with a specialization in Data Science, passionate about building intelligent systems using Machine Learning, Artificial Intelligence, and data-driven solutions.
+**Data Science Enthusiast | ML Developer | AI Explorer**
 
 ---
 
-## About Me
+## 😊 About Me
 
-- 🎓 Graduated in Computer Science & Engineering (CSE) with a major in Data Science  
-- 🤖 Passionate about Machine Learning, Deep Learning & AI  
-- 📊 Interested in Data Analytics and Predictive Modeling  
-- 🚀 Exploring NLP, Computer Vision, and Big Data Technologies  
-- 🌱 Continuously learning and building impactful projects
-
----
-
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### AI & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- 🎓 CS & Engineering student with Data Science focus
+- 🔬 Passionate about Machine Learning & AI
+- 💡 Building intelligent solutions with data
+- 🚀 Always learning, always coding
 
 ---
 
-## Current Focus
+## 🌐 Connect With Me
 
-- 🧠 Deep Learning & Neural Networks  
-- 📚 Natural Language Processing (NLP)  
-- ⚡ Big Data Technologies (Spark & Hadoop)  
-- 🔍 Real-world Machine Learning Applications
-
----
-
-## Featured Projects
-
-### 📈 Data Science Projects
-A collection of projects involving data analysis, visualization, and predictive modeling.
-
-- Stock Price Prediction
-- Customer Segmentation
-- Recommendation Systems
-
-### 🤖 Machine Learning Models
-Practical implementations of machine learning algorithms using real-world datasets.
-
-- Image Classification
-- House Price Prediction
-- Spam Detection
-
-### 💬 AI Chatbot
-An NLP-based chatbot designed to interact and assist users intelligently.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabit-al-alfi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sabitalfie@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/eganstark)
 
 ---
 
-## GitHub Stats
+## 💻 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eganstark&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eganstark&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## Connect With Me
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabitalfi)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabitalfie@gmail.com)
+### 🏥 [Fetal Health Prediction](https://github.com/EganStark/FetalCareXAI_V1.00)
+AI-powered fetal health prediction with LIME explainability
 
 ---
 
-## Quote I Believe In
+<div align="center">
 
-> “Data is not just numbers — it tells stories, solves problems, and shapes the future.”
+**Let's build something amazing together!**
 
-
-⭐ Thanks for visiting my profile!
-```
+</div>

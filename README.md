@@ -35,27 +35,6 @@ Computer Science & Engineering graduate specializing in Data Science, passionate
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## Featured Projects
-
-- 📈 Stock Price Prediction  
-- 🛒 Customer Segmentation  
-- 🔍 Recommendation System  
-- 🖼️ Image Classification  
-- 📧 Spam Email Detection  
-- 💬 AI Chatbot
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eganstark&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eganstark&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## Connect With Me
 

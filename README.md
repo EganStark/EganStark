@@ -1,129 +1,77 @@
-<div align="center">
 
-# Hi, I'm Sabit Al Alfi 👋
+# Hi there, I'm Sabit Al Alfi 👋
 
-### CSE Graduate | Data Science Major | Machine Learning & AI Enthusiast
+### Data Science Graduate • ML Developer • AI Explorer
 
-I build data-driven solutions using Machine Learning, Artificial Intelligence, and modern analytics tools.
-
-</div>
+Computer Science & Engineering graduate specializing in Data Science, passionate about Machine Learning, Artificial Intelligence, and building impactful data-driven solutions.
 
 ---
 
 ## About Me
 
-- 🎓 Graduated in Computer Science & Engineering with a major in Data Science  
-- 🤖 Passionate about Machine Learning, Deep Learning, AI, and Data Analytics  
-- 📊 Interested in solving real-world problems using data  
-- 🚀 Currently exploring NLP, Computer Vision, and Big Data  
-- 🌱 Always learning, building, and improving  
+- 🎓 CSE Graduate with a major in Data Science  
+- 🤖 Passionate about AI, ML & Deep Learning  
+- 📊 Interested in Data Analytics & Predictive Modeling  
+- 🚀 Love building intelligent systems and solving real-world problems  
+- 🌱 Always learning new technologies and frameworks
 
 ---
 
 ## Tech Stack
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-### Data Science & AI
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+### AI & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## Current Focus
-
-- 🧠 Deep Learning and Neural Networks  
-- 📚 Natural Language Processing  
-- 👁️ Computer Vision  
-- ⚡ Big Data with Spark and Hadoop  
-- 🔍 Real-world Machine Learning Projects  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### 📈 Data Science Projects
-
-A collection of data analysis, visualization, and predictive modeling projects.
-
-- Stock Price Prediction  
-- Customer Segmentation  
-- Recommendation System  
-
-### 🤖 Machine Learning Models
-
-Practical machine learning models trained and tested with real-world datasets.
-
-- Image Classification  
-- House Price Prediction  
-- Spam Email Detection  
-
-### 💬 AI Chatbot
-
-An NLP-based chatbot designed to interact with users and answer queries intelligently.
+- 📈 Stock Price Prediction  
+- 🛒 Customer Segmentation  
+- 🔍 Recommendation System  
+- 🖼️ Image Classification  
+- 📧 Spam Email Detection  
+- 💬 AI Chatbot
 
 ---
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=eganstark&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  alt="Sabit Al Alfi GitHub Stats" 
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eganstark&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  alt="Top Languages" 
-/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eganstark&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eganstark&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## Connect With Me
 
-<div align="center">
-
+<p align="left">
 <a href="https://www.linkedin.com/in/sabitalfi">
-  <img src="https://img.shields.io/badge/LinkedIn-Sabit%20Al%20Alfi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sabitalfie@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sabitalfie%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-### “Data tells stories, solves problems, and shapes the future.”
+> “Building intelligent solutions through data and technology.”
 
 ⭐ Thanks for visiting my profile!
-
-</div>
+```

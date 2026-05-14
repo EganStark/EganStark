@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Sabit Al Alfi 👋
 
 ### Data Science Graduate • ML Developer • AI Explorer
@@ -87,7 +86,6 @@ An NLP-based chatbot designed to interact and assist users intelligently.
 
 > “Data is not just numbers — it tells stories, solves problems, and shapes the future.”
 
----
 
 ⭐ Thanks for visiting my profile!
 ```

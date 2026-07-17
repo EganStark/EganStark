@@ -111,7 +111,7 @@ I am a CSE graduate from **East West University**, with a major in **Data Scienc
 
 <div align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EganStark&theme=github_dark" alt="Repositories by language" />
-  <img height="165" src="https://streak-stats.demolab.com?user=EganStark&theme=transparent&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub contribution streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EganStark&theme=github_dark" alt="GitHub profile statistics" />
 </div>
 
 ## Beyond code

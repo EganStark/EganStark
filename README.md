@@ -106,8 +106,12 @@ I am a CSE graduate from **East West University**, with a major in **Data Scienc
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EganStark&show_icons=true&hide_border=true&bg_color=00000000&title_color=2dd4bf&text_color=94a3b8&icon_color=2dd4bf" alt="Sabit Al Alfi's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EganStark&layout=compact&hide_border=true&bg_color=00000000&title_color=2dd4bf&text_color=94a3b8" alt="Most used languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EganStark&theme=github_dark" alt="Sabit Al Alfi's GitHub contribution summary" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EganStark&theme=github_dark" alt="Repositories by language" />
+  <img height="165" src="https://streak-stats.demolab.com?user=EganStark&theme=transparent&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub contribution streak" />
 </div>
 
 ## Beyond code
